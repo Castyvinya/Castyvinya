@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Castyvinya
-- 👀 I’m interested in web development and have a graet passion for creating user friendly websites.
+- 👀 I’m interested in web development and have a great passion for creating user friendly websites.
 - 🌱 I’m currently learning javascript to incoporate it in my codes and make them live.
 - 💞️ I’m looking to collaborate on begginer projects in web development and also contribute to open source projects...
 - 📫 How to reach me ...
